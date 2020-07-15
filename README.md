@@ -1,11 +1,12 @@
 # Animation and Keyboard
 
-For this Hackathon, our objetive was to use [Paper.js](http://paperjs.org/).
+For this Hackathon, our objetive was to implement any changes we saw fit to an [existing Hackathon project](https://yasamanloghmani.github.io/animation-game/) which is a piano app which utilizes [Paper.js](http://paperjs.org/). 
 
+The existing product combined canvas, animation and sound. To add-on, I implemented several features to improve user functionality.
 
-Finding a good idea to work on was really challenging, and It was my first time working with open source vector graphics scripting framework.
+*To simplify the instructions, the keyboard shortcuts were placed on each cooresponding key.  This should allow most users to play the instrument more intuitively.
 
-I had a coding/art project mulling about in my head and thought this was a great opportunity to build it. I was thinking to combine canvas, animation and sound. So I decided to create this [project](https://yasamanloghmani.github.io/animation-game/)
+*Secondly, to improve the user experience, the app was fixed to not scroll Which is aimed to allow the user to be able to remain focused on the virtual keyboard.  Additionally, the colors were refactored in an effort to stand out more.
 
 ![main](https://imgur.com/wahFo5M.png)
 
