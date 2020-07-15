@@ -36,7 +36,7 @@ const { Path, Point } = paper;
 const offset = 10;
 const segments = 20;
 const strokeWidth = 5;
-const strokeColor = 'black';
+const strokeColor = 'white';
 
 const canvas = document.querySelector('.squig');
 paper.setup(canvas);
