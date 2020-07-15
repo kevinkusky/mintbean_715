@@ -89,35 +89,18 @@ video {
 
 /* HTML5 display-role reset for older browsers */
 
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-  display: block;
-}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu,
+nav, section { display: block; }
 
 body {
   line-height: 1;
-  background-color: #cf034a;
+  background-color: rgba(92, 110, 68, 0.69);
   text-align: center;
 }
 
-ol,
-ul {
-  list-style: none;
-}
+ol, ul { list-style: none; }
 
-blockquote,
-q {
-  quotes: none;
-}
+blockquote, q { quotes: none; }
 
 blockquote:before,
 blockquote:after,
@@ -238,7 +221,6 @@ h2 {
   position: relative;
   margin: 0px auto 30px;
   cursor: none;
-  
 }
 
 .key {
@@ -348,3 +330,4 @@ h2 {
 .black-note{
     color: #ffffff;
 }
+
