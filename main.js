@@ -61,6 +61,6 @@ path.onFrame = (e) => {
       type: 'continuous'
     });
 	}
-}
+};
 
 paper.view.draw();
